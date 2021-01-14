@@ -1,5 +1,5 @@
 # Z-Shadow
-Facebook Phishing Tool
+Z Shadow - Hacking Facebook with Shadowave Phishing
 
 Z Shadow is an open source phishing tool for popular social media and email platforms. Z Shadow works by creating login pages via a specific crafted link and capturing user credentials upon entering.
 
